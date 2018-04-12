@@ -1,0 +1,19 @@
+{
+  "name": "@emjimadhu/additional-prototypes",
+  "version": "0.1.0",
+  "description": "Extra Prototypes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emjimadhu/additional-prototypes.git"
+  },
+  "author": "Em Ji Madhu <emjimadhu@gmail.com> (http://emjimadhu.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emjimadhu/additional-prototypes/issues"
+  },
+  "homepage": "https://github.com/emjimadhu/additional-prototypes#readme"
+}
